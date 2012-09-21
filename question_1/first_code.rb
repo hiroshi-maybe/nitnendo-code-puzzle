@@ -1,8 +1,9 @@
+#!/usr/bin/ruby
 i=0
-while(true) do
+while(true)
   if (i**17) % 3569 == 915 then
     p i.to_s
     break
   end
-  i++
+  i+=1
 end
