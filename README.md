@@ -1,4 +1,4 @@
-Codes to solve Nintendo code puzzle.<br/>
+Code to solve Nintendo code puzzle.<br/>
 - http://cp1.nintendo.co.jp/index.html<br/>
 <br/>
 How to execute?<br/>
